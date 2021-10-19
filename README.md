@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LolaDeveloper
-- 👀 I’m interested in becoming a full time developer.
-- 🌱 I’m currently learning JavaScript
+- - 👀 I’m interested in becoming a full time developer.
+- I can use HTML, CSS, JS5, Bootstrap tp build a responsive website.
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on projects that can help me practice what I am learning.
 - 📫 How to reach me: techheadlola@gmail.com
 
